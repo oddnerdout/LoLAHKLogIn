@@ -1,0 +1,12 @@
+This is where I will be keeping the project files for my League of Legends AutoHotKey script.
+
+Right now the program can take your username and password and login at a time that you desire.
+
+The major limitations of this program USERS BEWARE:
+--most likely working with different screen resolutions (I haven't tried it on other PC's)
+--the ability to wake the computer from sleep and log in the user
+--how to handle the client when a new patch is released
+--the script looks for the LoLLauncher.exe in the directory "C:\Riot Games\League of Legends\lol.launcher.exe"  It will break if the launcher does not exist there.
+--how to handle the client when the login screen does not allow data entry 15 seconds after launch.
+
+These are the limitations that I hope you will take into account.  Other than that, cheers!
